@@ -1,6 +1,8 @@
 # AWABoost-svm
 We present an optimized AwaBoost-SVM model tailored for heart disease classification.  This repository includes a pre-trained model, structured testing data, and an evaluation script to analyze model performance Ideal for health data analysis applications and binary classification tasks.
 
+![Data Processing Workflow](./AWA-SVM.png)
+
 # Optimized AwaBoost-SVM Model for Heart Disease Classification
 
 Python implementation of an optimized **AwaBoost-SVM model** designed for heart disease classification using the Cleveland dataset.
@@ -13,6 +15,7 @@ Heart disease remains one of the leading causes of morbidity and mortality world
 
 Unlike traditional SVM models, AwaBoost-SVM combines the boosting framework of AwaBoost with the binary classification power of SVM, allowing for improved robustness and accuracy. We optimize key hyperparameters \( \theta \) and \( C \) using Bayesian optimization to further improve the model's predictive accuracy. This model was trained and validated on the Cleveland heart disease dataset, and its performance is evaluated using accuracy, precision, recall, F1-score, and AUC metrics.
 
+![AWA-SVM Model](./AWA-SVM(1).png)
 ---
 
 ## Prerequisites

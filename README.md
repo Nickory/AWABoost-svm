@@ -16,6 +16,7 @@ Heart disease remains one of the leading causes of morbidity and mortality world
 Unlike traditional SVM models, AwaBoost-SVM combines the boosting framework of AwaBoost with the binary classification power of SVM, allowing for improved robustness and accuracy. We optimize key hyperparameters \( \theta \) and \( C \) using Bayesian optimization to further improve the model's predictive accuracy. This model was trained and validated on the Cleveland heart disease dataset, and its performance is evaluated using accuracy, precision, recall, F1-score, and AUC metrics.
 
 ![AWA-SVM Model](./AWA-SVM(1).png)
+
 ---
 
 ## Prerequisites

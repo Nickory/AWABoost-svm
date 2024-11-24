@@ -1,5 +1,5 @@
 # AWABoost-svm
-We present an optimized AwaBoost-SVM model tailored for heart disease classification.  This repository includes a pre-trained model, structured testing data, and an evaluation script to analyze model performance Ideal for health data analysis applications and binary classification tasks.
+We proposed an optimized AwaBoost-SVM model tailored for heart disease classification.  This repository includes a pre-trained model, structured testing data, and an evaluation script to analyze model performance Ideal for health data analysis applications and binary classification tasks.
 
 ![Data Processing Workflow](./AWA-SVM.png)
 
